@@ -10,5 +10,5 @@ Time series data is ubiquitous in our information-hungry world. From smart homes
 ## Details
 Host System : macOS Ventura \
 Programming Language : Python, postgreSQL \
-Database : TimescaleDB
-Environment : High Performance Monitoring System, Texas Tech University(connecting through GlobalProtect VPN)
+Database : TimescaleDB \
+Environment : High Performance Monitoring System, Texas Tech University(connecting through GlobalProtect VPN) \
