@@ -8,7 +8,7 @@ Time series data is ubiquitous in our information-hungry world. From smart homes
 1. A Git repo containing all your codes, documentation, etc.
 2. A project report presenting your ideas, analysis, experimental results, etc.
 ## Details
-Host System : macOS Ventura
-Programming Language : Python, postgreSQL
+Host System : macOS Ventura \
+Programming Language : Python, postgreSQL \
 Database : TimescaleDB
 Environment : High Performance Monitoring System, Texas Tech University(connecting through GlobalProtect VPN)
